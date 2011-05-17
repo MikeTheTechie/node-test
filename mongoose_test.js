@@ -1,5 +1,6 @@
 // mongoose_test.js
 // In mongo shell, use db.blogposts.find(); to display all documents.
+// Published as https://github.com/MikeTheTechie/node-test
 var sys=require('sys');
 var mongoose=require('mongoose');
 sys.debug("Starting ...");
